@@ -1,0 +1,27 @@
+
+body {
+    width: 100%;
+    background-color: black;
+    display: relative;
+}
+#Warm-Rearrange {
+    margin: auto;
+    margin-top: 200px;
+    display: block;
+}
+
+
+
+#Colors-Holder {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+}
+.color-square {
+    width: 100px;
+    height: 100px;
+    margin-left: 4px;
+    margin-right: 4px;
+    border: solid white 2px;
+}
